@@ -1,0 +1,8 @@
+project(':controller') {
+
+}
+
+dependencies{
+    compile project(':service')
+
+}

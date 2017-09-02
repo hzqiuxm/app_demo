@@ -1,0 +1,8 @@
+project(':service') {
+
+}
+dependencies{
+    compile project(':dao')
+    compile project(':common')
+
+}

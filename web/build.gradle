@@ -1,0 +1,6 @@
+project(':web') {
+
+}
+dependencies{
+    compile project(':controller')
+}
